@@ -749,7 +749,10 @@ body {
   margin-top: 0px;
   margin-bottom: 0px;
   padding-top: 15px;
-  position: relative; }
+  position: relative;
+  background: #131313;
+  color: #30ff00;
+}
 
 footer {
   padding-bottom: 30px; }
